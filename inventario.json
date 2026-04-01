@@ -1,0 +1,9 @@
+[
+    {
+        "codigo": "24",
+        "descripcion": "vaca",
+        "precio": 200.0,
+        "categoria": "comida",
+        "cantidad": 7
+    }
+]
